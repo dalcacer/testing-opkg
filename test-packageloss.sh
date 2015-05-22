@@ -1,5 +1,6 @@
-#!/bin/bash
+#!/bin/ash
 OUT=opkg-packageloss.txt
+TIME=/usr/bin/time
 cat /dev/null > $OUT
 
 
@@ -9,7 +10,7 @@ function measure() {
 
   for i in {1..5}
   do
-    (time opkg install nginx) 2>> $OUT
+    ($TIME -f '%e' opkg install nginx) 2>> $OUT
     opkg remove --force-remove --force-depends nginx
     sleep 5
 
