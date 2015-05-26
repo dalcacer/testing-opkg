@@ -1,0 +1,9 @@
+2048 bandwidth
+
+real	0m40.401s
+user	0m0.050s
+sys	0m0.020s
+
+real	0m3.634s
+user	0m0.020s
+sys	0m0.020s
