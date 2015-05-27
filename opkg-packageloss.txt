@@ -1,0 +1,231 @@
+0 package loss
+
+real	0m3.204s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m3.190s
+user	0m0.020s
+sys	0m0.020s
+
+real	0m3.200s
+user	0m0.020s
+sys	0m0.020s
+
+real	0m3.557s
+user	0m0.030s
+sys	0m0.010s
+
+real	0m2.902s
+user	0m0.030s
+sys	0m0.000s
+5 package loss
+
+real	0m3.993s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m2.524s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m3.540s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m3.547s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m3.498s
+user	0m0.020s
+sys	0m0.010s
+10 package loss
+
+real	0m0.463s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m7.416s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m1.494s
+user	0m0.000s
+sys	0m0.030s
+
+real	0m0.555s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m1.453s
+user	0m0.010s
+sys	0m0.020s
+15 package loss
+
+real	0m4.464s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m1.823s
+user	0m0.040s
+sys	0m0.000s
+
+real	0m1.468s
+user	0m0.010s
+sys	0m0.020s
+
+real	0m0.496s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m1.459s
+user	0m0.010s
+sys	0m0.030s
+20 package loss
+
+real	0m1.616s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m0.375s
+user	0m0.020s
+sys	0m0.020s
+
+real	0m1.665s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m3.187s
+user	0m0.010s
+sys	0m0.020s
+
+real	0m1.460s
+user	0m0.030s
+sys	0m0.010s
+25 package loss
+
+real	0m14.687s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m0.406s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m0.463s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m1.416s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m0.463s
+user	0m0.030s
+sys	0m0.000s
+30 package loss
+
+real	0m8.202s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m14.199s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m3.524s
+user	0m0.010s
+sys	0m0.020s
+
+real	0m0.818s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m1.409s
+user	0m0.010s
+sys	0m0.020s
+35 package loss
+
+real	0m1.618s
+user	0m0.010s
+sys	0m0.020s
+
+real	0m10.449s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m0.489s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m13.186s
+user	0m0.010s
+sys	0m0.030s
+
+real	0m1.330s
+user	0m0.020s
+sys	0m0.010s
+40 package loss
+
+real	0m49.836s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m9.819s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m0.771s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m6.242s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m18.629s
+user	0m0.030s
+sys	0m0.010s
+45 package loss
+
+real	0m4.478s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m0.692s
+user	0m0.030s
+sys	0m0.000s
+
+real	2m21.806s
+user	0m0.030s
+sys	0m0.000s
+
+real	0m1.461s
+user	0m0.030s
+sys	0m0.000s
+
+real	1m6.231s
+user	0m0.030s
+sys	0m0.000s
+50 package loss
+
+real	1m35.268s
+user	0m0.010s
+sys	0m0.020s
+
+real	1m27.407s
+user	0m0.020s
+sys	0m0.010s
+
+real	2m11.063s
+user	0m0.010s
+sys	0m0.020s
+
+real	5m53.469s
+user	0m0.020s
+sys	0m0.030s
+
+real	3m2.697s
+user	0m0.010s
+sys	0m0.020s
